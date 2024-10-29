@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "prasant",
   "license": "MIT",
+  "dependencies": {
+    "@pooniaprasant/client-dax": "*"
+  },
   "publishConfig": {
     "access": "public"
   }

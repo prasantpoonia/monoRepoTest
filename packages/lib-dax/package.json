@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "prasant",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/prasantpoonia/monoRepoTest/tree/master/packages/lib-dax"
+  },
   "dependencies": {
     "@pooniaprasant/client-dax": "*"
   },

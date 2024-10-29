@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "prasant",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/prasantpoonia/monoRepoTest/tree/master/packages/client-dax"
+  },
   "publishConfig": {
     "access": "public"
   }

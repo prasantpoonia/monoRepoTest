@@ -1,7 +1,10 @@
 {
-  "name": "@prasant/client-dax",
+  "name": "@pooniaprasant/client-dax",
   "version": "1.0.0",
   "main": "index.js",
   "author": "prasant",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
